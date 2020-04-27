@@ -1,0 +1,56 @@
+Size:
+6.58 inches
+*With a rounded corners design on the display, the diagonal length of the screen is 6.58 inches when measured according to the standard rectangle (the actual viewable area is slightly smaller).
+
+Colour:
+16.7 million colours
+
+Type:
+OLED, up to 90 Hz frame refresh rate
+
+Resolution:
+2640 x 1200 Pixels
+*The resolution measured as a standard rectangle, with a rounded corners design, the effective pixels are slightly less.
+IP68
+
+*Your device has been tested in a controlled environment and certified to be splash, water, and dust resistant in specific situations (meets requirements of classification IP68 as described by the international standard IEC 60529).
+
+Water and dust-proofing are not permanent, and resistance may decrease as a result of normal wear over time. Do not charge the phone when it is wet or in moist environments. Refer to the manual for cleaning and drying instructions. Submersion in liquid and the resulting damage is not covered by the warranty.
+
+
+*IP68 rating means that based on certain defined test conditions, the device is protected against harmful ingress of static water at up to 1.5 meters, for up to 30 minutes, meanwhile the temperature difference between water and device is not more than 5K.
+Rear Camera:
+50 MP Ultra Vision Camera (Wide Angle, f/1.9 aperture, OIS) + 40 MP Cine Camera (Ultra-Wide Angle, f/1.8 aperture) + 12 MP SuperSensing Telephoto Camera (f/3.4 aperture, OIS) + 3D Depth Sensing Camera
+Autofocus mode: Autofocus
+Image stabilization: OIS + AIS
+Zoom Mode: Digital Zoom, Optical Zoom, Hybrid Zoom
+Video recording: Support for 4K(3840 x 2160 pixels) 60fps video recording
+Image resolution: Support up to 8192 x 6144 pixels
+Video resolution: Support up to 3840 x 2160 pixels
+
+Front Camera:
+32 MP Selfie Camera (f/2.2 aperture) + Depth Camera*
+Autofocus Mode: Autofocus
+Video Recording: Support for 4K (3840 x 2160 pixels) 60fps video recording
+Image resolution: Support up to 6528 x 4896 pixels
+Video resolution: Support up to 3840 x 2160 pixels
+*Depth Camera also support face unlock with IR.
+
+*The photo pixels may vary depending on the shooting mode.
+*The actual image resolution may vary depending on the shooting mode.
+
+HUAWEI SuperCharge (Max 40 W)
+*HUAWEI SuperCharge cable and charger is required.
+
+Wireless HUAWEI SuperCharge (Max 27 W)
+*Wireless chargers sold separately. To reach a maximum charging rate of 27 W, need to purchase HUAWEI SuperCharge Wireless Charger (Max 27 W) or HUAWEI SuperCharge Wireless Car Charger (Max 27 W)
+Gesture Sensor
+Gravity Sensor
+Infrared Sensor
+Fingerprint Sensor
+Hall Sensor
+Gyroscope
+Compass
+Ambient Light Sensor
+Proximity Sensor
+Colour Temperature Sensor
